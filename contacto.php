@@ -72,7 +72,7 @@
         </div>
       </div>
 
-      <div id="disqus_thread"></div>
+      <div id="disqus_thread" class="container"></div>
       <script>
         (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
