@@ -81,7 +81,7 @@
         (d.head || d.body).appendChild(s);
         })();
       </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <noscript>Por favor habilite javascripta para visualizar <a href="https://disqus.com/?ref_noscript">comentarios desarrollados por Disqus.</a></noscript>
     </section>
 
 <?php
