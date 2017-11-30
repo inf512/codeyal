@@ -1,0 +1,2 @@
+azul        #0E0B6E
+amarillo    #FEC810
